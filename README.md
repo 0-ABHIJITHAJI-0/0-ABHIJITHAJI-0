@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to the world of Networks</h1>
 <h3 align="center">A passionate developer from India</h3>
 
--  **cybersecurity**
+-  **Certified Ethical Hacker**
 -  **Mobile appliccation developer**
 
 - 📫  reach me on **mysteriousb769@gmail.com**
